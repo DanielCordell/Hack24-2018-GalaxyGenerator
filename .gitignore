@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Hack24-2018/v15
+/Debug
+/Hack24-2018/Debug
+/Hack24-2018/imgui
+/Hack24-2018/Release
+/Hack24-2018/Hack24-2018.vcxproj.user
+/Hack24-2018/Hack24-2018.vcxproj.filters
+/Hack24-2018/Hack24-2018.vcxproj
+/Release
+/SFML-2.4.2
+/Hack24-2018.sln
+/imgui
+/Hack24-2018/imgui.ini
