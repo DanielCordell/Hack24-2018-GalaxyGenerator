@@ -170,7 +170,7 @@ int main() {
 			if (planet) {
 				s = "Planet Name: " + planet->GetName();
 				ImGui::Text(s.c_str());
-				s = "Planet Name: " + planet->GetType();
+				s = "Planet Type: " + planet->GetType();
 				ImGui::Text(s.c_str());
 				ImGui::Image(*tex);
 				ImGui::Spacing();
